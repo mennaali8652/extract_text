@@ -34,7 +34,7 @@ A simple application built with Streamlit to extract text from different types o
 
 1. Clone the repository from GitHub
 ```bash
-git clone https://github.com/mennaali8652/streamlit-file-extractor.git
+git clone https://github.com/mennaali8652/extract_text.git
 ```
 2. Navigate into the project folder
 ```bash
