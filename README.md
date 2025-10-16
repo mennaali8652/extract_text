@@ -11,6 +11,8 @@ A simple application built with Streamlit to extract text from different types o
 ---
 ## 📄 Streamlit File Text Extractor
 ``` 
+├── assets
+├── tests
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -50,7 +52,14 @@ streamlit run app.py
 
 ---
 
-##🧪 Usage
+## 🎥 Demo Video
+Here is a quick demo of the application:
+
+![Watch the demo](assets/demo.webm)
+
+---
+
+## 🧪 Usage
 ```
 - Upload a PDF file, an image, or a DOCX/PPTX/TXT file.
 
