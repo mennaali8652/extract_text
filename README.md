@@ -55,7 +55,7 @@ streamlit run app.py
 ## 🎥 Demo Video
 Here is a quick demo of the application:
 
-![Watch the demo](assets/demo.webm)
+![Watch the demo](assets/demo.mp4)
 
 ---
 
