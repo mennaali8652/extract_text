@@ -38,7 +38,7 @@ git clone https://github.com/mennaali8652/extract_text.git
 ```
 2. Navigate into the project folder
 ```bash
-cd streamlit-file-extractor
+cd extract_text
 ```
 3. Install all required Python dependencies
 ```bash
