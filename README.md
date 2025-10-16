@@ -36,16 +36,12 @@ A simple application built with Streamlit to extract text from different types o
 ```bash
 git clone https://github.com/mennaali8652/extract_text.git
 ```
-2. Navigate into the project folder
-```bash
-cd extract_text
-```
-3. Install all required Python dependencies
+2. Install all required Python dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the Streamlit application in Terminal
+3. Run the Streamlit application in Terminal
 ```bash
 streamlit run app.py
 ```
